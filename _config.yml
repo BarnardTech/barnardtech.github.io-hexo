@@ -6,7 +6,7 @@
 title: "Barnard Technology Solutions"
 company: "Barnard Technology Solutions LLC"
 subtitle: 
-description: "Consulting and Services focusing on Web Development, JavaScript, and your other technology needs."
+description: "Software and Technology Consulting and Services focusing on Web Development, JavaScript, C#, .NET, and other technology needs. Located in Champaign, Illinois."
 author: Eric M Barnard
 language: "en-US"
 timezone: "America/Chicago"
@@ -73,3 +73,6 @@ theme: barnardtech-custom
 deploy:
   type: git
   repo: https://github.com/BarnardTech/barnardtech.github.io.git
+  
+# Analytics
+google_analytics: 'UA-62744121-1'
