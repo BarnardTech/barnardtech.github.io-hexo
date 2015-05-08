@@ -1,0 +1,18 @@
+{
+  "name": "barnardtech.github.io-hexo",
+  "version": "0.0.0",
+  "private": true,
+  "hexo": {
+    "version": "3.0.1"
+  },
+  "dependencies": {
+    "hexo": "^3.0.0",
+    "hexo-clean-css": "0.0.2",
+    "hexo-deployer-git": "0.0.4",
+    "hexo-renderer-ejs": "^0.1.0",
+    "hexo-renderer-less": "^0.1.3",
+    "hexo-renderer-marked": "^0.2.4",
+    "hexo-renderer-stylus": "^0.2.0",
+    "hexo-server": "^0.1.2"
+  }
+}
