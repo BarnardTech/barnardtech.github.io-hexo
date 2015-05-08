@@ -71,4 +71,5 @@ theme: barnardtech-custom
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: https://github.com/BarnardTech/barnardtech.github.io.git
